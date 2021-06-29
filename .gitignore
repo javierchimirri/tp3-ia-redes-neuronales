@@ -1,0 +1,6 @@
+/dataset/archive.zip
+/dataset/birds.csv
+/dataset/test/
+/dataset/train/
+/dataset/valid/
+/dataset/**/**/*.jpg
